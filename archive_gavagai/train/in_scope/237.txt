@@ -1,0 +1,1 @@
+set timer of 5 minutes

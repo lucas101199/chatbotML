@@ -1,0 +1,1 @@
+put $20000 into my checking account from my savings account

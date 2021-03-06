@@ -1,0 +1,1 @@
+add current song to rock playlist

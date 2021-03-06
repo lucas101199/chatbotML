@@ -1,0 +1,1 @@
+change audio to whisper mode

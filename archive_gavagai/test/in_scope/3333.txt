@@ -1,0 +1,1 @@
+switch whisper mode off

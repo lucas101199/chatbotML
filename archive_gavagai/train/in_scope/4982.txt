@@ -1,0 +1,1 @@
+remove all items from todo list

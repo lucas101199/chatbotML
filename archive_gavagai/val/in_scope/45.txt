@@ -1,0 +1,1 @@
+the timer should have 10 minutes set to it

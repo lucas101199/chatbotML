@@ -1,0 +1,1 @@
+put $40 from account a to b

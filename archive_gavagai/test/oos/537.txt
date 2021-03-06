@@ -1,0 +1,1 @@
+create a for-while loop that continues 10 times

@@ -1,0 +1,1 @@
+move $40 from account b to account a

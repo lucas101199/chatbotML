@@ -1,0 +1,1 @@
+set an alarm for 05:00 and one for 16:00

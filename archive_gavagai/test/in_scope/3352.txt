@@ -1,0 +1,1 @@
+change audio settings to the whisper option

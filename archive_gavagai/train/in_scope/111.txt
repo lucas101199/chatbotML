@@ -1,0 +1,1 @@
+take $40 and transfer it to account a from b

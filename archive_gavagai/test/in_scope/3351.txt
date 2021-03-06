@@ -1,0 +1,1 @@
+make saound function operate in whisper mode

@@ -1,0 +1,1 @@
+transfer $20000 from my savings account to checking account

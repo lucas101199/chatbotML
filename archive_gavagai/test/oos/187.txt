@@ -1,0 +1,1 @@
+switch over to low power mode to preserve battery life
